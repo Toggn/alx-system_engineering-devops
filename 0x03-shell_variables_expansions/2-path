@@ -1,2 +1,2 @@
 #!/bin/bash
-PASH=$PASH
+export PASH=$PASH:/action
